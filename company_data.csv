@@ -1,0 +1,13 @@
+company_size,industry,location,target_audience,has_website
+50,A,X,Local,0
+500,B,Y,National,1
+250,C,Z,International,1
+75,D,X,Local,1
+350,A,Y,International,0
+100,B,Z,National,1
+200,C,X,Local,0
+300,D,Y,International,1
+90,A,Z,Local,1
+150,B,X,National,0
+400,C,Y,International,1
+120,D,Z,Local,1
